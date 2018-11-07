@@ -1,0 +1,38 @@
+#logo{
+    border: 2px solid #8eb1d038;
+    background-color: azure;
+}
+
+#logo h2{
+    color: cadetblue;
+    font-family: cursive;
+}
+
+#logo p{color: darkgray;}
+
+.bg-dark {
+    background-color: #343a401a !important;
+}
+
+.navbar a{
+    font-family: cursive;
+    font-size: large;
+    font-weight: bold;
+    color: #f06666 !important;
+}
+
+
+
+.highlight-text img{
+    text-align: center !important;
+}
+
+.highlight-card span{
+    font-size:20px;
+    font-weight: 700;
+}
+
+.highlight-card{
+    font-family:serif;
+    font-size:18px;
+}
